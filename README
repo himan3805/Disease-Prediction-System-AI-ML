@@ -1,5 +1,5 @@
 # Disease Prediction System
-This project predicts the likelihood of Diabetes and Heart Disease based on patient inputs.
+This project predicts the likelihood of various Disease based on patient inputs.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
